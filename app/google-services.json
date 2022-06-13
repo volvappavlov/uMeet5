@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1036467718493",
+    "firebase_url": "https://umeet5-default-rtdb.firebaseio.com",
+    "project_id": "umeet5",
+    "storage_bucket": "umeet5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036467718493:android:20f4e602b144d1b7c0c0b4",
+        "android_client_info": {
+          "package_name": "com.budek.umeet5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036467718493-neh3j01plsbi29ib1ct4ildlpkpslki6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZM9Eroz6Gb0Y8pb28yHH7FY5FmmthDH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036467718493-neh3j01plsbi29ib1ct4ildlpkpslki6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
